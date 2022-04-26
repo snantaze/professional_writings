@@ -5,5 +5,5 @@
 
 # topics:
   # advertising, adtech, technology, marketing, big tech, business, culture wars, DEI, food system, apps, mobile, digital, citizenship
-  # non-topics = anything personal is in [this folder](personal_writings)
+  # non-topics = anything personal is in [this folder](https://github.com/snantaze/personal_writings)
   
